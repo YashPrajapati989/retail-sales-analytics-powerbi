@@ -41,7 +41,7 @@ The objective is to help management understand:
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/02_executive_overview.png)
+![Executive Overview](screenshots/executive_overview.png)
 
 Provides a high-level view of:
 
@@ -58,7 +58,7 @@ Provides a high-level view of:
 
 ### 2. Customer Segmentation & RFM Analysis
 
-![Customer Segmentation](screenshots/03_customer_segmentation.png)
+![Customer Segmentation](screenshots/customer_retention.png)
 
 Customer segments:
 
@@ -73,7 +73,7 @@ Customer segments:
 
 ### 3. Product & Sales Performance
 
-![Product Performance](screenshots/04_product_sales_performance.png)
+![Product Performance](screenshots/product_sales_performance.png)
 
 Analyses:
 
@@ -87,7 +87,7 @@ Analyses:
 
 ### 4. Delivery & Logistics Performance
 
-![Delivery & Logistics](screenshots/05_delivery_logistics.png)
+![Delivery & Logistics](screenshots/delivery_logistics.png)
 
 Analyses:
 
@@ -101,7 +101,7 @@ Analyses:
 
 ### 5. Business Insights & Recommendations
 
-![Business Insights](screenshots/06_business_insights.png)
+![Business Insights](screenshots/insights_recommendations.png)
 
 Converts analytical findings into actionable recommendations.
 
