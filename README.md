@@ -89,7 +89,7 @@ Provides a high-level view of:
 
 ## 02 — Customer Segmentation & RFM Analysis
 
-![Customer Segmentation](screenshots/customer_segmentation.png)
+![Customer Segmentation](screenshots/customer_retention.png)
 
 Customers are segmented using **RFM analysis** into:
 
@@ -138,7 +138,7 @@ Focuses on operational demand rather than unsupported delivery-time metrics:
 
 ## 05 — Business Insights & Recommendations
 
-![Business Insights](screenshots/business_insights.png)
+![Business Insights](screenshots/insights_recommendations.png)
 
 The final page converts analytical findings into business actions across:
 
@@ -154,7 +154,7 @@ The final page converts analytical findings into business actions across:
 
 | KPI                         |       Result |
 | --------------------------- | -----------: |
-| 💰 Total Revenue            | **£17.37M*** |
+| 💰 Total Revenue            | **£17.24M** |
 | 🛒 Total Orders             |   **36,969** |
 | 👥 Total Customers          |    **5,878** |
 | 🛍️ Total Products          |    **4,631** |
@@ -167,7 +167,6 @@ The final page converts analytical findings into business actions across:
 | ⚠️ Retention Risk Customers |    **1,912** |
 | 🏆 Champion Revenue Share   |    **72.1%** |
 
-* Revenue should be kept consistent with the final Power BI model before publication. The Python EDA result is shown here as the current reference value.
 
 ---
 
