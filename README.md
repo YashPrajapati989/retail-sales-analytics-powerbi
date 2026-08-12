@@ -417,16 +417,18 @@ The project deliberately separates **data preparation**, **analytical modelling*
 retail-sales-analytics-powerbi/
 │
 ├── notebooks/
-│   ├── retail_eda.ipynb
-│   └── rfm_analysis.ipynb
+│   ├── 01_data_loading.py
+│   └── 02_data_cleaning.py
+│   └── 03_eda.py
+│   └── 04_rfm_analysis.py
+│   └── 05_customer_segmentation.py
+│   └── 06_customer_insights.py
 │
 ├── sql/
 │   ├── 01_create_tables.sql
-│   ├── 02_data_cleaning.sql
-│   ├── 03_data_validation.sql
-│   ├── 04_business_analysis.sql
-│   ├── 05_rfm_analysis.sql
-│   └── 06_views.sql
+│   ├── 02_business_analysis.sql
+│   ├── 03_rfm_analysis.sql
+│   └── 04_views.sql
 │
 ├── powerbi/
 │   └── Retail_Sales_Analytics.pbix
